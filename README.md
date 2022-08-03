@@ -13,8 +13,6 @@ All experiments use the PyTorch library. We recommend installing the following p
 
 * &nbsp;&nbsp; pytorch=1.10.0
 
-### Data preprocess
-
 
 ## Training
 
