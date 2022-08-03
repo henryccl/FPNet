@@ -1,6 +1,6 @@
 # FP-Net: 
 
-This repository is the official **PyTorch** implementation of 
+This repository is the official **PyTorch** implementation of FPNet
 
 ## Overview
 
@@ -13,20 +13,11 @@ All experiments use the PyTorch library. We recommend installing the following p
 
 * &nbsp;&nbsp; pytorch=1.10.0
 
-Dependency packages can be installed using following command:
-```
-pip install -r requirements.txt
-```
-
-```
-experiments/PATH.yaml
-```
-
 ### Data preprocess
 
 
 ## Training
-Net can be trained by running following command:
+
 
 
 ## Acknowledgement
