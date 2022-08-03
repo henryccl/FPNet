@@ -1,4 +1,4 @@
-# D2-Net: Dual Disentanglement Network for Brain Tumor Segmentation with Missing Modalities
+# FP-Net: 
 
 This repository is the official **PyTorch** implementation of 
 
