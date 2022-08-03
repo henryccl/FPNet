@@ -11,9 +11,7 @@ All experiments use the PyTorch library. We recommend installing the following p
 
 * &nbsp;&nbsp; python=3.7 
 
-* &nbsp;&nbsp; pytorch=1.6.0
-
-* &nbsp;&nbsp; torchvision=0.7.0
+* &nbsp;&nbsp; pytorch=1.10.0
 
 Dependency packages can be installed using following command:
 ```
