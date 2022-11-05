@@ -2,10 +2,6 @@
 
 This repository is the official **PyTorch** implementation of FPNet.
 
-## Overview
-
-Coming soon！
-
 ## Requirements
 All experiments use the PyTorch library. We conducted training and validation on a workstation with a GTX 3080, using Ubuntu 20.04 as the operating system. We recommend installing the following package versions:
 
