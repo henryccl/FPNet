@@ -15,4 +15,4 @@ SRNet：We used [SRNet](https://github.com/brijeshiitg/Pytorch-implementation-of
  
 ## Acknowledgement
 
-The implementation of this repository is based on the [SiaStegNet](https://github.com/SiaStg/SiaStegNet).
+Some implementation of this repository is based on the [SiaStegNet](https://github.com/SiaStg/SiaStegNet).
