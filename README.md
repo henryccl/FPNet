@@ -1,4 +1,4 @@
-# FP-Net: 
+# FPNet: 
 
 This repository is the official **PyTorch** implementation of FPNet.
 
